@@ -1,1 +1,1 @@
-(https://tayl-amber.github.io/LoginPage/)[Click here to see demo]
+[Click here to see demo](https://tayl-amber.github.io/LoginPage/)
